@@ -1,8 +1,8 @@
 # Git
 **CSDN 博客地址：** http://blog.csdn.net/john_bh/
 
-日常使用 Git ，可能只要记住下图6个命令就可以了。但是想要熟练使用，恐怕要记住60～100个命令，但是很多命令记不住，所以整理了一份常用和不常用的 Git 命令 笔记，希望能帮助到大家更好的掌握 Git 的使用，如果文章和笔记能带您一丝帮助或者启发，请不要吝啬你的赞和收藏，你的肯定是我前进的最大动力！
-同步内容 github 地址：
+在日常使用 Git 中，可能只要记住下图6个命令就可以了，但是如果想要熟练使用 Git，恐怕要记住60～100个命令，命令太多记不住，所以整理了一份常用和不常用的 Git 命令笔记，方便使用时查询，希望能帮助到大家更好的掌握 Git 的使用，码字不易，请不要吝啬您的 【start】~
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200619104245255.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2pvaG5fYmg=,size_16,color_FFFFFF,t_70)
 >  - Workspace：工作区 
 >  - Index / Stage：暂存区 
